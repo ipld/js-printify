@@ -1,4 +1,4 @@
-# js-printify
+# @ipld/printify
 
 Convert a decoded IPLD value to a colored printable string
 
