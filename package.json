@@ -1,10 +1,10 @@
 {
   "name": "@ipld/printify",
   "version": "0.0.0",
-  "description": "",
+  "description": "Convert a decoded IPLD value to a colored printable string",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/*.spec.js"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
@@ -17,5 +17,16 @@
     "mocha": "^6.1.4",
     "standard": "^12.0.1",
     "tsame": "^2.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipld/js-printify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ipld/js-printify/issues"
+  },
+  "homepage": "https://github.com/ipld/js-printify#readme"
 }
