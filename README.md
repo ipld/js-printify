@@ -15,3 +15,5 @@ console.log(printify({
   }
 }))
 ```
+
+![IMG_0055](https://user-images.githubusercontent.com/579/58920572-b09a9980-86e7-11e9-88da-70572b7c8dcd.png)
