@@ -13,6 +13,5 @@ console.log(printify({
     link: new CID('QmWATWQ7fVPP2EFGu71UkfnqhYXDYH566qy47CnJDgvs8u'),
     binary: Buffer.from('hello world')
   }
-})
+}))
 ```
-   
