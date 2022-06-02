@@ -7,7 +7,7 @@
   "scripts": {
     "build": "npm run lint",
     "lint": "standard",
-    "test": "mocha test/*.spec.js"
+    "test": "npm run lint && mocha test/*.spec.js"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
