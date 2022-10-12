@@ -14,7 +14,7 @@
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
     "chalk": "^5.0.1",
-    "multiformats": "^9.6.5"
+    "multiformats": "^10.0.0"
   },
   "devDependencies": {
     "chai": "^4.3.6",
