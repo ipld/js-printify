@@ -1,3 +1,11 @@
+## [0.1.2](https://github.com/ipld/js-printify/compare/v0.1.1...v0.1.2) (2023-01-03)
+
+
+### Trivial Changes
+
+* **deps:** bump multiformats from 10.0.3 to 11.0.0 ([081fca7](https://github.com/ipld/js-printify/commit/081fca776acf287f3da805b71a463c4fbdd5308b))
+* **no-release:** bump actions/setup-node from 3.5.0 to 3.5.1 ([#7](https://github.com/ipld/js-printify/issues/7)) ([5dda527](https://github.com/ipld/js-printify/commit/5dda527a3c0a48edd12a1cff87c64718142f9eae))
+
 ## [0.1.1](https://github.com/ipld/js-printify/compare/v0.1.0...v0.1.1) (2022-10-13)
 
 
