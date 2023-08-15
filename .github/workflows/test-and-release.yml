@@ -5,12 +5,12 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        node: [14.x, 16.x]
+        node: [16.x, lts/*, current]
         os: [macos-latest, ubuntu-latest, windows-latest]
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.5.3
       - name: Use Node.js ${{ matrix.node }}
         uses: actions/setup-node@v3.8.0
         with:
@@ -28,19 +28,16 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.5.3
         with:
           fetch-depth: 0
       - name: Setup Node.js
         uses: actions/setup-node@v3.8.0
         with:
-          node-version: 14
+          node-version: lts/*
       - name: Install dependencies
         run: |
           npm install --no-progress --no-package-lock --no-save
-      - name: Build
-        run: |
-          npm run build
       - name: Install plugins
         run: |
           npm install \
@@ -57,4 +54,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
-
