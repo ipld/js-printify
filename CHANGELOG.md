@@ -1,3 +1,17 @@
+## [0.1.4](https://github.com/ipld/js-printify/compare/v0.1.3...v0.1.4) (2023-08-15)
+
+
+### Bug Fixes
+
+* update release workflow with current Node.js ([a20f3aa](https://github.com/ipld/js-printify/commit/a20f3aac79423f67d29335564b4458441773aced))
+
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 3.6.0 to 3.7.0 ([777c957](https://github.com/ipld/js-printify/commit/777c9574a4bf7d5abaecfeaacce24993f96e45a1))
+* **deps:** bump actions/setup-node from 3.7.0 to 3.8.0 ([e0e2d2e](https://github.com/ipld/js-printify/commit/e0e2d2e20899a3b3d343e2004a433df217efd122))
+* **deps:** bump multiformats from 11.0.2 to 12.0.0 ([2220c6b](https://github.com/ipld/js-printify/commit/2220c6b7b6133043e020a36abe372dd9ecb8e386))
+
 ## [0.1.3](https://github.com/ipld/js-printify/compare/v0.1.2...v0.1.3) (2023-01-06)
 
 
