@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/ipld/js-printify/compare/v0.1.4...v0.1.5) (2023-08-17)
+
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 3.8.0 to 3.8.1 ([715aae9](https://github.com/ipld/js-printify/commit/715aae9094b1bfbaca1e62b026dc3fc89a321e5c))
+
 ## [0.1.4](https://github.com/ipld/js-printify/compare/v0.1.3...v0.1.4) (2023-08-15)
 
 
