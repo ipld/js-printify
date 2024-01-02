@@ -1,3 +1,10 @@
+## [0.1.11](https://github.com/ipld/js-printify/compare/v0.1.10...v0.1.11) (2024-01-02)
+
+
+### Trivial Changes
+
+* **deps:** bump multiformats from 12.1.3 to 13.0.0 ([f07e7bc](https://github.com/ipld/js-printify/commit/f07e7bc386389254f0228bcf8ecbddb56396a965))
+
 ## [0.1.10](https://github.com/ipld/js-printify/compare/v0.1.9...v0.1.10) (2024-01-01)
 
 
