@@ -1,6 +1,6 @@
 {
   "name": "@ipld/printify",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Convert a decoded IPLD value to a colored printable string",
   "main": "index.js",
   "type": "module",
