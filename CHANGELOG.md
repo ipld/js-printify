@@ -1,3 +1,9 @@
+## [0.1.16](https://github.com/ipld/js-printify/compare/v0.1.15...v0.1.16) (2024-09-24)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 4.0.3 to 4.0.4 ([d7851f2](https://github.com/ipld/js-printify/commit/d7851f237c7bc9ee80efbf567a1b09cb9a077b01))
+
 ## [0.1.15](https://github.com/ipld/js-printify/compare/v0.1.14...v0.1.15) (2024-07-10)
 
 ### Trivial Changes
