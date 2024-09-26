@@ -1,3 +1,9 @@
+## [0.1.17](https://github.com/ipld/js-printify/compare/v0.1.16...v0.1.17) (2024-09-26)
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 4.1.7 to 4.2.0 ([0a649b3](https://github.com/ipld/js-printify/commit/0a649b30405f84bdc723afe8d195138b873ecbe3))
+
 ## [0.1.16](https://github.com/ipld/js-printify/compare/v0.1.15...v0.1.16) (2024-09-24)
 
 ### Trivial Changes
