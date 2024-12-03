@@ -1,3 +1,9 @@
+## [0.1.21](https://github.com/ipld/js-printify/compare/v0.1.20...v0.1.21) (2024-12-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump mocha from 10.8.2 to 11.0.1 ([dd1be17](https://github.com/ipld/js-printify/commit/dd1be17a017885b68f6b9f1549d6c467590b9129))
+
 ## [0.1.20](https://github.com/ipld/js-printify/compare/v0.1.19...v0.1.20) (2024-10-25)
 
 ### Trivial Changes
