@@ -1,3 +1,10 @@
+## [0.1.25](https://github.com/ipld/js-printify/compare/v0.1.24...v0.1.25) (2025-08-25)
+
+### Trivial Changes
+
+* **deps-dev:** bump chai from 5.3.2 to 6.0.0 ([#42](https://github.com/ipld/js-printify/issues/42)) ([e97a1c7](https://github.com/ipld/js-printify/commit/e97a1c7e1dbd6ddd0a25f75cd15294ab9dc1f4ed))
+* **deps:** bump actions/checkout from 4.2.2 to 5.0.0 ([#41](https://github.com/ipld/js-printify/issues/41)) ([769e94b](https://github.com/ipld/js-printify/commit/769e94b08f63da6e796b47a9ec9ee0a3b2e8ce93))
+
 ## [0.1.24](https://github.com/ipld/js-printify/compare/v0.1.23...v0.1.24) (2025-04-15)
 
 ### Trivial Changes
