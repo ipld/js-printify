@@ -1,3 +1,9 @@
+## [0.1.28](https://github.com/ipld/js-printify/compare/v0.1.27...v0.1.28) (2025-11-24)
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 5.0.0 to 6.0.0 ([#46](https://github.com/ipld/js-printify/issues/46)) ([90cef39](https://github.com/ipld/js-printify/commit/90cef39f3eb9283b38564df69dea2d64ee938829))
+
 ## [0.1.27](https://github.com/ipld/js-printify/compare/v0.1.26...v0.1.27) (2025-10-15)
 
 ### Trivial Changes
