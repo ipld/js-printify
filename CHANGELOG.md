@@ -1,3 +1,9 @@
+## [0.1.30](https://github.com/ipld/js-printify/compare/v0.1.29...v0.1.30) (2026-01-21)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 6.1.0 to 6.2.0 ([#49](https://github.com/ipld/js-printify/issues/49)) ([35de8e7](https://github.com/ipld/js-printify/commit/35de8e7e6500a777818c0ee9cd89a6df7255434f))
+
 ## [0.1.29](https://github.com/ipld/js-printify/compare/v0.1.28...v0.1.29) (2025-12-05)
 
 ### Trivial Changes
